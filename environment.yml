@@ -5,4 +5,5 @@ dependencies:
   - numpy
   - lark-parser
   - root
+  - pycparser
   - numba
