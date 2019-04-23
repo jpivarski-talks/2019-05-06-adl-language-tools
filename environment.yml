@@ -6,4 +6,3 @@ dependencies:
   - lark-parser
   - root
   - pycparser
-  - numba
