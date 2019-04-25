@@ -1,3 +1,4 @@
+name: adl-language-tools
 channels:
   - conda-forge
 dependencies:
