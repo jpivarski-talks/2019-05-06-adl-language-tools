@@ -6,5 +6,6 @@ dependencies:
   - lark-parser
   - root
   - pycparser
+  - pip
   - pip:
     - uncompyle6
