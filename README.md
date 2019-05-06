@@ -10,7 +10,7 @@ To participate, either install all of the software on your laptop (with [conda](
 ```bash
 git clone https://github.com/jpivarski/2019-05-06-adl-language-tools.git
 cd 2019-05-06-adl-language-tools
-conda create -f environment.yml       # create an isolated environment and install everything in it
+conda env create -f environment.yml   # create an isolated environment and install everything in it
 conda activate adl-language-tools     # switch to that environment
 conda install jupyterlab
 jupyter lab                           # runs on your machine, controlled by your web browser
